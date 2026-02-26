@@ -1,2 +1,3 @@
 db.php
 login.php
+config.php
