@@ -2,10 +2,10 @@
 	"version": "1.0.80",
 	"base_url": "https://getsamplefiles.com/download/zip/",
 	"files": [
-		"sample-1.zip",
-		"sample-1.zip",
-		"sample-1.zip",
-		"sample-1.zip",
-		"sample-1.zip"
+		"https://github.com/cdnrepo/cdnrepo.github.io/blob/main/10mb-example-jpg.jpg?raw=true",
+		"https://github.com/cdnrepo/cdnrepo.github.io/blob/main/10mb-example-jpg.jpg?raw=true",
+		"https://github.com/cdnrepo/cdnrepo.github.io/blob/main/10mb-example-jpg.jpg?raw=true",
+		"https://github.com/cdnrepo/cdnrepo.github.io/blob/main/10mb-example-jpg.jpg?raw=true",
+		"https://github.com/cdnrepo/cdnrepo.github.io/blob/main/10mb-example-jpg.jpg?raw=true"
 	]
 }
