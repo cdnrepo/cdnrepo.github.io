@@ -1,0 +1,14 @@
+[Version]
+Latest=0.02.0091
+Launch=0
+NewLaunch=1.0.1.0
+UseAntForce=0
+LatestDownload=0
+EnableCritical=1
+UseCriticalLimit=500
+
+[Patch_1]
+VersionFrom=0.02.0090
+VersionTo=0.02.0091
+URL_1=≤‚ ‘µÿ÷∑1;http://103.36.166.198:201/xcs-cz-0.02.0090-0.02.0091.zip
+URL_2=≤‚ ‘µÿ÷∑1;http://103.36.166.198:201/xcs-cz-0.02.0090-0.02.0091.zip
